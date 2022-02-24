@@ -1,0 +1,126 @@
+
+
+
+
+
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+  }
+  
+  
+  .top-part{
+    display: flex;
+  
+  }
+  
+  .foucsed-part{
+  
+    margin-top: 9%;
+    padding-left: 5%;
+    font-size: 20px;
+  }
+  
+  
+  .Misson-part{
+  
+    border-left: 3px solid salmon;
+    padding-left: 4px;
+  }
+  
+  
+  .link-button 
+  {
+      background-color: tomato;
+      background-image: linear-gradient (tomato);
+      text-decoration: none;
+      color: white;
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 20px;
+  
+  }
+  
+  .half-edit{
+    width: 50%;
+    padding: 5%;
+    margin-top: 40px;
+  }
+  
+  .half-edit img{
+    width: 60%;
+    padding: 5%;
+    margin-bottom: 50px;
+  }
+  
+  .Mission{
+    text-align: center;
+    font-size: 60px;
+  }
+  
+  #First-box{
+    background-color: rosybrown ;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 35%;
+  
+  }
+  
+  
+   
+  
+  
+  #third-box{
+  background-color: pink;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 35%;
+   
+  }
+  
+  #second-box{
+  background-color: antiquewhite;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+    border-radius: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    width: 35%;
+  }
+  
+  
+  .third-part{
+  
+    margin-top: 10%;
+    padding-right: 5%;
+  }
+  
+  .last-part{
+    text-align: center;
+  }
+  
+  .end-part{
+    text-align: center;
+  }
+  
+  
+  .detarmination-part{
+  
+  background-color: rgb(87, 83, 83);
+  
+  }
+  .color-add{
+    color: red;
+  }
+  
